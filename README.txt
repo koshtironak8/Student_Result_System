@@ -27,4 +27,5 @@ This is a simple and beginner-friendly Python-based GUI project that helps manag
 1. Make sure Python 3.9+ and MySQL are installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-result-system.git
+   git clone https://github.com/koshtironak8/Student_Result_System
+
